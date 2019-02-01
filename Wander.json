@@ -1,0 +1,11 @@
+{
+	"Name": "Wander",
+	"UniqueId" : "35e21922-5624-44cc-ae41-04ed1684cece",
+	"Description": "Misty just roams around in a very random way",
+	"StartupRules": ["Manual", "Robot"],
+	"Language": "javascript",
+	"BroadcastMode": "debug",
+	"TimeoutInSeconds": 36000,
+	"CleanupOnCancel": true,
+	"WriteToLog": false
+}
