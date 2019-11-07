@@ -15,7 +15,7 @@
 
 // Misty Wanders Random; uses Time of Flight and Bump Sensors to back up when she gets close to an obstacle
 misty.Debug("Centering Head");
-misty.MoveHeadPosition(0, 0, 0, 100);
+misty.MoveHeadDegrees(0, 0, 0, 100);
 misty.Pause(3000);
 
 misty.Set("StartTime",(new Date()).toUTCString());
