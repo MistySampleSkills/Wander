@@ -1,6 +1,8 @@
 # Wander
 
-Misty randomly wanders around using her Time of Flights and Bump Sensors to avoid bumping into things
+*Last tested on `robotVersion 1.16.1.10505`*
+
+Misty randomly wanders around using her Time of Flights and Bump Sensors to avoid obstacles and redirect when she bumps into things.
 
 ---
 
